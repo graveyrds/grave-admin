@@ -12,8 +12,8 @@ end
 local success, response = pcall(function()
 local Admin = {
 	Prefix = readfile("legendary0001.lua"),
-	Name = "graves's admin",
-	Version = "v1.0"
+	Name = "grave's admin",
+	Version = "| v1.0"
 }
 
 function DeltaWait(n)
